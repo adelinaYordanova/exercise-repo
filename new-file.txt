@@ -4,3 +4,6 @@ Content... onflict
 >>>>>>> 5fb6084bb66af2c985eba7fb179bea72ad09d0c6
 Added data...
 Added new data...
+=======
+New data.
+>>>>>>> 95e355d0c3536afc81869e6d76d6dcb56b947cd3
